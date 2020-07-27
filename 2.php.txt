@@ -1,5 +1,0 @@
-<?php
-//comment 1 2.php
-//comment 2 2.php
-//comment 3 2.php
-?>
