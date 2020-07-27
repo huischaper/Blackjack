@@ -1,0 +1,5 @@
+<?php
+//comment 1 1.php
+//comment 2 1.php
+//commnet 3 1.php
+?>
