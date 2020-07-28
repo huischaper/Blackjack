@@ -1,0 +1,18 @@
+hui.schaper@t-online.de
+ken4fn2f1
+
+c8an6bug1
+
+
+Control Room URL: https://g8m2eg01.ce.automationanywhere.digital 
+Username: hui.schaper@t-systems.com
+Password: c8an6bug1 
+
+SSO_AutomationAnywhere
+KaiKai168
+
+
+{(\s)?.*".*"\s*:\s*\[
+{(\s*)"(.*)"(\s*):(\s*\[)
+
+}\s*]\s*}$
